@@ -1,0 +1,26 @@
+{
+  "name": "api_super_cool",
+  "version": "1.0.0",
+  "description": "Super cool API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amimbs/API_Super_Cool.git"
+  },
+  "keywords": [
+    "uneccessary"
+  ],
+  "author": "Rumpler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amimbs/API_Super_Cool/issues"
+  },
+  "homepage": "https://github.com/amimbs/API_Super_Cool#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
